@@ -1,2 +1,0 @@
-Olá, Mundo!
-Python é incrível!

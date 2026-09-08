@@ -6,3 +6,5 @@
 6|25/08/2026 23:45|Produção de oxigênio|Crítica|produziu cerca de 20% a menos de oxigenio|Finalizado
 7|26/08/2026 19:28|laboratorio|Alta|Pegou fogo|Pendente
 8|26/08/2026 22:08|Energia|Crítica|Falta de energiaaaaaaaaaa|Finalizado
+9|08/09/2026 04:37|energia|Crítica|Energia em estado crítico|Finalizado
+10|08/09/2026 04:41|Laboratorio|Média|Equipamentos inutilizados|Pendente

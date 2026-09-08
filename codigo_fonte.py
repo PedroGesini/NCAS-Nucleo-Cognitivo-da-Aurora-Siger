@@ -7,6 +7,7 @@ from src.prompts import exibir_prompts
 from src.assistente import assistente_inteligente
 from src.registros import cadastrar_registro, consultar_registros
 from src.otimizacao import otimizar_recursos_colonia
+from src.resiliencia import gerenciar_resiliencia_energetica
 
 # NCAS - NÚCLEO COGNITIVO DA AURORA SIGER
 def exibir_menu():
@@ -27,7 +28,8 @@ def exibir_menu():
 7 - Executar regra lógica
 8 - Exibir prompts estruturados
 9 - Assistente inteligente
-10 - Otimizar recursos (Machine Learning)
+10 - Otimizar recursos da colônia 
+11 - Gerenciar resiliência energética 
 0 - Sair
 """)
 
@@ -98,6 +100,10 @@ def main():
 
             case 10:
                 otimizar_recursos_colonia()
+                pausar()
+
+            case 11:
+                gerenciar_resiliencia_energetica()
                 pausar()
 
             case 0:

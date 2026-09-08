@@ -6,3 +6,4 @@
 [25/08/2026 21:47] | Módulo: Laboratorio | Ocorrência: Fogo após experimento | Responsável: Pedro Ribeiro Gesini
 [25/08/2026 23:40] | Módulo: Energia | Ocorrência: Falta de energia | Responsável: Pedro Ribeiro Gesini
 [26/08/2026 19:27] | Módulo: Energia | Ocorrência: Falta de energia | Responsável: Pedro Ribeiro Gesini
+[08/09/2026 04:35] | Módulo: Aurora Siger | Ocorrência: Oscilação de pressão detectada no setor norte | Responsável: Diego Ramos

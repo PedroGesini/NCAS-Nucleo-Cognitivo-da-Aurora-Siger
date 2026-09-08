@@ -1,0 +1,33 @@
+25/08/2026 21:42:30|Criação de alerta|Energia|Alerta #4 criado com prioridade Alta: Falta de energia 30 min
+25/08/2026 21:42:55|Consulta de módulos|Sistema|Consulta geral dos módulos da colônia
+25/08/2026 21:43:44|Análise de alerta|Energia|Alerta #1 analisado como ALTO RISCO
+25/08/2026 21:43:45|Finalização de alerta|Energia|Alerta #1 finalizado
+25/08/2026 21:46:46|Cadastro de registro|Laboratorio|Ocorrência registrada: fogo após testes | Responsável: Pedro Ribeiro Gesini
+25/08/2026 21:47:23|Cadastro de registro|Laboratorio|Ocorrência registrada: Fogo após experimento | Responsável: Pedro Ribeiro Gesini
+25/08/2026 21:47:27|Consulta de registros|Sistema|Consulta geral realizada. Total de registros: 6
+25/08/2026 21:47:49|Consulta de módulos|Sistema|Consulta geral dos módulos da colônia
+25/08/2026 21:48:05|Criação de alerta|laboratorio|Alerta #5 criado com prioridade Média: Fogo
+25/08/2026 21:54:01|Execução de regra lógica|Sistema|6 condição(ões) identificada(s).
+25/08/2026 22:00:45|Execução de regra lógica|Sistema|6 condição(ões) identificada(s).
+25/08/2026 23:40:34|Cadastro de registro|Energia|Ocorrência registrada: Falta de energia | Responsável: Pedro Ribeiro Gesini
+25/08/2026 23:42:34|Consulta de registros|Sistema|Consulta geral realizada. Total de registros: 7
+25/08/2026 23:43:34|Consulta de módulos|Sistema|Consulta geral dos módulos da colônia
+25/08/2026 23:43:51|Consulta de módulos|Sistema|Consulta geral dos módulos da colônia
+25/08/2026 23:45:58|Criação de alerta|Produção de oxigênio|Alerta #6 criado com prioridade Crítica: produziu cerca de 20% a menos de oxigenio
+25/08/2026 23:46:36|Análise de alerta|Produção de oxigênio|Alerta #6 analisado como RISCO CRÍTICO
+25/08/2026 23:46:51|Finalização de alerta|Produção de oxigênio|Alerta #6 finalizado
+25/08/2026 23:47:39|Execução de regra lógica|Sistema|6 condição(ões) identificada(s).
+26/08/2026 19:27:10|Cadastro de registro|Energia|Ocorrência registrada: Falta de energia | Responsável: Pedro Ribeiro Gesini
+26/08/2026 19:27:15|Consulta de registros|Sistema|Consulta geral realizada. Total de registros: 8
+26/08/2026 19:27:31|Consulta de módulos|Sistema|Consulta geral dos módulos da colônia
+26/08/2026 19:27:42|Consulta de módulos|Sistema|Consulta geral dos módulos da colônia
+26/08/2026 19:27:47|Consulta de módulos|Sistema|Consulta geral dos módulos da colônia
+26/08/2026 19:28:41|Criação de alerta|laboratorio|Alerta #7 criado com prioridade Alta: Pegou fogo
+26/08/2026 19:29:04|Análise de alerta|laboratorio|Alerta #7 analisado como ALTO RISCO
+26/08/2026 19:30:05|Execução de regra lógica|Sistema|6 condição(ões) identificada(s).
+26/08/2026 21:40:58|Execução de regra lógica|Sistema|2 alerta(s) prioritário(s) identificado(s).
+26/08/2026 22:08:03|Execução de regra lógica|Sistema|2 alerta(s) atenderam à regra lógica.
+26/08/2026 22:08:59|Criação de alerta|Energia|Alerta #8 criado com prioridade Crítica: Falta de energiaaaaaaaaaa
+26/08/2026 22:09:13|Análise de alerta|Energia|Alerta #8 analisado: atende à regra de atenção prioritária.
+26/08/2026 22:09:22|Finalização de alerta|Energia|Alerta #8 finalizado
+26/08/2026 22:15:50|Consulta de prompts|Sistema|Prompts zero-shot, few-shot e saída estruturada exibidos.
